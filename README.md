@@ -5,16 +5,14 @@
     
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-tozatti-590568214/)
-[![Instagram Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-)](https://medium.com/@franciscofoz)
-</p>
+[![Linkedin Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.linkedin.com/in/gabriel-tozatti-590568214/](https://instagram.com/gabrieitozatti?igshid=MzRlODBiNWFlZA==))
+
 
 Eu tenho 21 anos e moro em Franca-SP.
 
 
 - :books: Faço faculdade de Sistema de informação na Universidade de Franca.
-- :school: Eu trabalho na AgenciaTH2 como Desenvolvedor Web.
-- :bar_chart: Estou estudando Ciência de dados e suas aplicações na Biblioteconomia.
+- :bar_chart: Estou dedicando meu tempo ao estudo de Análise de Dados e suas diversas aplicações no campo de Inteligência de Negócios.
 
 
 ### Ferramentas e Tecnologias
@@ -24,7 +22,7 @@ Eu tenho 21 anos e moro em Franca-SP.
 </br>
 
 
-## Portfólio de projetos
+## Portfólio de projetos/estudos
 <div>
 <a href="https://gist.github.com/GabrielTozatti">
 <p align = "left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTozatti&layout=compact&langs_count=7&theme=dracula"/>
