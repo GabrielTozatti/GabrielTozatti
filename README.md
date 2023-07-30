@@ -15,7 +15,6 @@ Eu tenho 21 anos e moro em Franca-SP.
 - :books: Faço faculdade de Sistema de informação na Universidade de Franca.
 - :school: Eu trabalho na AgenciaTH2 como Desenvolvedor Web.
 - :bar_chart: Estou estudando Ciência de dados e suas aplicações na Biblioteconomia.
-- :star: Faço parte do Alura Stars e tenho escrito no meu Medium textos sobre Ciência de dados, Biblioteconomia e Tecnologia.
 
 
 ### Ferramentas e Tecnologias
@@ -23,15 +22,6 @@ Eu tenho 21 anos e moro em Franca-SP.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 </br>
 </br>
-
-
-:pencil: Últimos textos no Medium:
-<!-- MEDIUM:START -->
-- [Os impactos da IA Generativa: 3 reflexões sobre nosso modo de trabalho](https://franciscofoz.medium.com/os-impactos-da-ia-generativa-3-reflex%C3%B5es-sobre-nosso-modo-de-trabalho-dea4c52be9b2?source=rss-30612e32581e------2)
-- [As interrelações entre Ciência de Dados e Biblioteconomia/Ciência da Informação](https://franciscofoz.medium.com/as-interrela%C3%A7%C3%B5es-entre-ci%C3%AAncia-de-dados-e-biblioteconomia-ci%C3%AAncia-da-informa%C3%A7%C3%A3o-b9ddab9b5a9f?source=rss-30612e32581e------2)
-- [5 Desafios com Strings para iniciantes em Python](https://franciscofoz.medium.com/5-desafios-com-strings-para-iniciantes-em-python-81e3a5ba9cbe?source=rss-30612e32581e------2)
-- [ChatGPT em Bibliotecas: O que a Ciência está falando sobre?](https://franciscofoz.medium.com/chatgpt-em-bibliotecas-o-que-a-ci%C3%AAncia-est%C3%A1-falando-sobre-6345dba2b063?source=rss-30612e32581e------2)
-<!-- MEDIUM:END -->
 
 
 ## Portfólio de projetos
