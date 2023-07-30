@@ -4,7 +4,7 @@
 <p align='left'>
     
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/francisco-tadeu-foz/)
+)](https://www.linkedin.com/in/gabriel-tozatti-590568214/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 )](https://medium.com/@franciscofoz)
 </p>
@@ -12,7 +12,7 @@
 Eu tenho 21 anos e moro em Franca-SP.
 
 
-- :books: Faço.
+- :books: Faço faculdade de Sistema de informação na Universidade de Franca.
 - :school: Eu trabalho na AgenciaTH2 como Desenvolvedor Web.
 - :bar_chart: Estou estudando Ciência de dados e suas aplicações na Biblioteconomia.
 - :star: Faço parte do Alura Stars e tenho escrito no meu Medium textos sobre Ciência de dados, Biblioteconomia e Tecnologia.
