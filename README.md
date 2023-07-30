@@ -26,6 +26,6 @@ Eu tenho 21 anos e moro em Franca-SP.
 
 ## Portfólio de projetos
 <div>
-<a href="https://gist.github.com/FranciscoFoz">
+<a href="https://gist.github.com/GabrielTozatti">
 <p align = "left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTozatti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
