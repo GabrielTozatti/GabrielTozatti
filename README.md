@@ -12,8 +12,8 @@
 Eu tenho 21 anos e moro em Franca-SP.
 
 
-- :books: Sou bibliotecário formado pela PUCCAMP em 2018.
-- :school: Eu trabalho na UNICAMP na função de Técnico em Biblioteconomia na BCCL.
+- :books: Faço.
+- :school: Eu trabalho na AgenciaTH2 como Desenvolvedor Web.
 - :bar_chart: Estou estudando Ciência de dados e suas aplicações na Biblioteconomia.
 - :star: Faço parte do Alura Stars e tenho escrito no meu Medium textos sobre Ciência de dados, Biblioteconomia e Tecnologia.
 
