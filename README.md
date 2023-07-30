@@ -25,15 +25,6 @@ Eu tenho 21 anos e moro em Franca-SP.
 
 
 ## Portfólio de projetos
-
-Confira minha Vitrine Dev clicando na imagem abaixo:
-
-[![image](https://user-images.githubusercontent.com/64700794/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/FranciscoFoz)
-
-</br>
-</br>
-</br>
-
 <div>
 <a href="https://gist.github.com/FranciscoFoz">
 <p align = "center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&layout=compact&langs_count=7&theme=dracula"/>
