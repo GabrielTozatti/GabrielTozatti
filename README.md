@@ -20,10 +20,3 @@ Eu tenho 21 anos e moro em Franca-SP.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 </br>
 </br>
-
-
-## Portfólio de projetos/estudos
-<div>
-<a href="https://gist.github.com/GabrielTozatti">
-<p align = "left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTozatti&layout=compact&langs_count=7&theme=dracula"/>
-</div>
