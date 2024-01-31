@@ -1,5 +1,5 @@
 # Olá eu me chamo Gabriel Tozatti ! 👋
-## Bem vindo ao meu perfil do GitHub!           
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxygen&weight=700&size=30&duration=8000&pause=1000&color=4281B3&background=FFFFFF00&repeat=false&random=false&width=435&lines=Desenvolvedor+Python)](https://git.io/typing-svg)          
 
 <p align='left'>
     
