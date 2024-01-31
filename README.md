@@ -1,6 +1,5 @@
 # Olá eu me chamo Gabriel Tozatti
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxygen&weight=700&size=30&duration=8000&pause=1000&color=4281B3&background=FFFFFF00&random=false&width=435&lines=Desenvolvedor+Python)](https://git.io/typing-svg)
-
   - Apaixonado por código e inovação 🚀
   - Estudante de Ciência Da Computação 💻  
 
