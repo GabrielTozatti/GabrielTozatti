@@ -15,4 +15,4 @@ Eu tenho 21 anos e moro em Franca-SP.
 </br>
 
 ## Portfólio de projetos
-1. [Automação de Cadastro de Produtos]([https://github.com/GabrielTozatti/automacao_de_cadastro)])
+1. [Automação de Cadastro de Produtos](https://github.com/GabrielTozatti/automacao_de_cadastro)
