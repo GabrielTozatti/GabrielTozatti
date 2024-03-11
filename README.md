@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1000&color=ADBAC7&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)  
 Eu tenho 21 anos e moro em Franca-SP.
 
-  - 📊 Estou estudando Ciência de dados
+  - 📊 Estou estudando Análise de Dados
   - 📚 Faço faculdade em Ciência Da Computação
   - 🚀 Apaixonado por código e inovação 
 
