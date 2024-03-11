@@ -1,5 +1,5 @@
 # Olá eu me chamo Gabriel Tozatti 🤞
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1000&color=F7F7F7&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=1000&color=a8b4c2&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
 <p>Eu tenho 21 anos e moro em Franca-SP.</p>
 
   - 📊 Estou estudando Ciência de dados
