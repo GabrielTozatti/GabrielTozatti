@@ -1,6 +1,7 @@
 # Olá eu me chamo Gabriel Tozatti 🤞
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxygen&weight=700&size=30&duration=8000&pause=1000&color=4281B3&background=FFFFFF00&random=false&width=435&lines=Desenvolvedor+Python)](https://git.io/typing-svg)
 <p>Eu tenho 21 anos e moro em Franca-SP.</p>
+
   - 📊 Estou estudando Ciência de dados
   - 🚀 Apaixonado por código e inovação 
 
