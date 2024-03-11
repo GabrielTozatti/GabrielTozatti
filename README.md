@@ -3,6 +3,7 @@
 <p>Eu tenho 21 anos e moro em Franca-SP.</p>
 
   - 📊 Estou estudando Ciência de dados
+  - 📚 Faço faculdade em Ciência Da Computação
   - 🚀 Apaixonado por código e inovação 
 
 <p align='left'>
