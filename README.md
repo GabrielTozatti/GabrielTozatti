@@ -13,3 +13,6 @@ Eu tenho 21 anos e moro em Franca-SP.
 ### Ferramentas e Tecnologias
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
 </br>
+
+## Portfólio de projetos
+1. [Automação de Cadastro de Produtos]([https://github.com/FranciscoFoz/challenge-dados-alura-3-edicao](https://github.com/GabrielTozatti/automacao_de_cadastro)https://github.com/GabrielTozatti/automacao_de_cadastro)
