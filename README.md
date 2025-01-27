@@ -6,12 +6,3 @@ Eu tenho 21 anos e moro em Franca-SP.
   - 🚀 Apaixonado por código e inovação 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tozatti-590568214/)
-
-
-
-### Ferramentas e Tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
-</br>
-
-## Portfólio de projetos
-1. [Automação de Cadastro de Produtos](https://github.com/GabrielTozatti/automacao_de_cadastro)
